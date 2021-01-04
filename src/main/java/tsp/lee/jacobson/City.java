@@ -1,5 +1,11 @@
 package tsp.lee.jacobson;
 
+/**
+ * City class :
+ * This class define a two dimensional City. 
+ * The Salesman is going around it during his travel.
+ */
+
 public class City {
     int x;
     int y;

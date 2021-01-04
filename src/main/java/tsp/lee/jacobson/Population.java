@@ -1,5 +1,11 @@
 package tsp.lee.jacobson;
 
+/**
+ * Population class :
+ * This class represents a Population. 
+ * Thanks to this, we can determinate the best Tour.
+ * It aims to be the lowest travelling distance in a Tour.
+ */
 public class Population {
 
     // Holds population of tours
