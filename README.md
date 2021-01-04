@@ -1,11 +1,11 @@
 # TP 4A 2020-21: The traveling salesman problem (TSP) with genetic algorithm
 
 ## Questions
-1. Fork this github repository  (2 points)
-2. Run the project
-3. Comment the 3 classes: City, Population & Tour (3 points)
-4. Commit your changes and check-it into github
-5. On github, make a pull request (1 point)
+1. Fork this github repository  (2 points) - done
+2. Run the project - done
+3. Comment the 3 classes: City, Population & Tour (3 points) - done
+4. Commit your changes and check-it into github - done
+5. On github, make a pull request (1 point) - done
 6. Complete the next section: "Analyze IADT functions" into this file (2 points)
 7. Commit your changes (commit README.md)
 8. On github, update your pull request (1 point)
@@ -29,31 +29,31 @@ Hereafter, for each classes give function to be tested. Remember that all functi
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| distanceToCity |  |  | 
-| getX |  |  | 
-| getY |  |  | 
-| toString |  |  | 
+| distanceToCity | T |  | 
+| getX | D | getter of City class | 
+| getY | D | getter of City class | 
+| toString | I | classical toString has to be just check | 
 
 ### Class Tour
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| containsCity  |  |  |
-| getCity  |  |  |
-| getDistance  |  |  |
-| getFitness  |  |  |
-| setCity  |  |  |
-| tourSize  |  |  |
-| toString  |  |  |
+| containsCity  | I | ArrayList method just need to check it |
+| getCity  | D | getter |
+| getDistance  | T |  |
+| getFitness  | I | operation with getDistance just need to check it |
+| setCity  | D | setter |
+| tourSize  | I | ArrayList method just need to check it |
+| toString  | I | classical toString has to be just check | 
 
 ### Class Population
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| getFittest  |  |  |
-| getTour  |  |  |
-| populationSize  |  |  |
-| saveTour  |  |  |
+| getFittest  | T |  |
+| getTour  | D | getter |
+| populationSize  | I | ArrayList method just need to check it |
+| saveTour  | D | setter |
 
 ## Functions to test now
 
