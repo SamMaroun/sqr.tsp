@@ -6,10 +6,10 @@
 3. Comment the 3 classes: City, Population & Tour (3 points) - done
 4. Commit your changes and check-it into github - done
 5. On github, make a pull request (1 point) - done
-6. Complete the next section: "Analyze IADT functions" into this file (2 points)
-7. Commit your changes (commit README.md)
-8. On github, update your pull request (1 point)
-9. Make tests defined into section: "Functions to test now" (call your test functions using the rule: GIVEN_WHEN_THEN) (10 points)
+6. Complete the next section: "Analyze IADT functions" into this file (2 points) - done
+7. Commit your changes (commit README.md) - done
+8. On github, update your pull request (1 point) - done
+9. Make tests defined into section: "Functions to test now" (call your test functions using the rule: GIVEN_WHEN_THEN) (10 points) - CityTest done
 10. Check the test coverage with the Jacoco coverage report provided into: /target/site/jacoco/index.html
 11. Commit your changes
 12. On github, update your pull request (1 point)
